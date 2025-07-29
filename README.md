@@ -346,9 +346,9 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 Si utilizas ScholarDown Advanced en tu investigación, por favor cita:
 
 ```
-Blázquez Ochando, M. (2025). ScholarDown Advanced: Sistema de extracción 
+Blázquez Ochando, M. (2025). ScholarDownPython: Sistema de extracción 
 masiva de literatura académica con técnicas anti-detección. 
-GitHub. https://github.com/[usuario]/scholardown-advanced
+GitHub. [https://github.com/manublaz/scholardownPython](https://github.com/manublaz/ScholarDownPython)
 ```
 
 ---
