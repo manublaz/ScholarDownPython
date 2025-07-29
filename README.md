@@ -215,8 +215,6 @@ python demo_autodetect.py
 - Estudios bibliométricos
 
 ### Gestión de Información
-- Per
-### Gestión de Información
 - Recopilación automatizada de literatura
 - Monitoreo de publicaciones por autor
 - Backup de colecciones académicas
