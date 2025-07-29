@@ -1,0 +1,52 @@
+# Archivo de configuración de proxies para ScholarDown Advanced
+# Un proxy por línea en formato IP:PUERTO
+# 
+# IMPORTANTE: Los proxies se validan automáticamente antes de usar
+# El sistema detecta automáticamente:
+#   ✓ Proxies funcionales
+#   ✗ Proxies que requieren autenticación
+#   ✗ Proxies que no responden
+#   ✗ Proxies bloqueados
+#
+# Ejemplos de formato correcto:
+# 192.168.1.100:8080
+# 10.0.0.50:3128
+# 203.142.69.67:8080
+
+# INSTRUCCIONES:
+# 1. Elimina estas líneas de comentario (que empiezan con #)
+# 2. Agrega tus proxies reales, uno por línea
+# 3. Formato: IP:PUERTO (ej: 192.168.1.100:8080)
+# 4. Ejecuta 'python proxy_validator.py' para validar los proxies
+# 5. El script rotará automáticamente entre proxies válidos
+
+# RECOMENDACIONES:
+# • Usar al menos 10-20 proxies para mejor rotación
+# • Evitar proxies gratuitos públicos (suelen estar bloqueados)
+# • Preferir proxies HTTP/HTTPS (no SOCKS)
+# • Verificar que no requieran usuario/contraseña
+# • Usar proxies de diferentes países/proveedores
+
+# TIPOS DE PROXY SOPORTADOS:
+# ✓ HTTP transparente (puerto 80, 8080, 3128)
+# ✓ HTTP anónimo (puerto 80, 8080, 3128)
+# ✗ SOCKS4/5 (no soportado en esta versión)
+# ✗ Proxies con autenticación (usuario:password)
+
+# SERVICIOS RECOMENDADOS (ejemplos):
+# • Bright Data (datacenter proxies)
+# • Smartproxy (residential proxies)
+# • ProxyMesh (rotating proxies)
+# • Storm Proxies (private proxies)
+
+# EJEMPLO DE FORMATO VÁLIDO:
+# 123.456.789.100:8080
+# 98.765.432.100:3128
+# 111.222.333.444:80
+# 87.654.321.200:8080
+
+# Para validar tus proxies antes de usar:
+# python proxy_validator.py
+
+# Agrega debajo de estas líneas las IP Proxies
+# ==================================================
