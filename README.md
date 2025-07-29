@@ -348,7 +348,7 @@ Si utilizas ScholarDown Advanced en tu investigación, por favor cita:
 ```
 Blázquez Ochando, M. (2025). ScholarDownPython: Sistema de extracción 
 masiva de literatura académica con técnicas anti-detección. 
-GitHub. [https://github.com/manublaz/scholardownPython](https://github.com/manublaz/ScholarDownPython)
+GitHub. https://github.com/manublaz/scholardownPython
 ```
 
 ---
